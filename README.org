@@ -7,7 +7,7 @@ Welcome to my github. I am *very* into machine learning and specifically natural
 - [[https://blester125.com][My website]]
 - [[https://scholar.google.com/citations?user=OWSQqZMAAAAJ&hl=en][My publications]]
 - [[https://pypi.org/user/BLester125/][My open source libraries]]
-- [[https://twitter.com/blester125][My (bad) tweets]]
+- [[https://twitter.com/blester125][My (lame) tweets]]
 * My software
 In my opinion a lot of current research skates over details and many small bug creep into the work. At worse this can change results and at best it means what you implemented is not what you actually described. A common source of these errors in NLP research is padding, you can see the slides of a talk I have about it [[https://github.com/blester125/A2D-NLP-Talk-Feb-27-2020/blob/master/Your-Neural-Network-Is-Probably-Wrong.pdf][here]].
 
